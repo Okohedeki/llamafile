@@ -4,7 +4,7 @@ documentation:
         - any-glob-to-any-file:
             - README.md
             - LICENSE
-            - docs/**
+            
 testing:
     - changed-files:
         - any-glob-to-any-file:
